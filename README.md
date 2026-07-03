@@ -5,7 +5,7 @@ AI & Data Science Undergraduate • Data Analyst • AI Engineer • Quantum AI 
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Data+Analytics+%7C+Machine+Learning;Building+AI+Solutions+for+Real+World+Problems;Python+%7C+SQL+%7C+Power+BI;Currently+Exploring+Quantum+Machine+Learning;Always+Learning+Something+New+🚀" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Data+Analyst+%7C+AI+Engineer;Machine+Learning+%7C+Quantum+AI;Building+Real+World+AI+Projects" />
 </p>
 
 <p align="center">
@@ -16,8 +16,7 @@ AI & Data Science Undergraduate • Data Analyst • AI Engineer • Quantum AI 
 
 ---
 
-# 💫 About Me
-
+<h2 align="center">💫 About Me</h2>
 🎓 **B.Tech in Artificial Intelligence & Data Science**
 
 📍 **Chennai, Tamil Nadu, India**
